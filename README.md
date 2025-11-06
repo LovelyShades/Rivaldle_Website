@@ -1,31 +1,33 @@
-# 💼 Rivaldle – Project Showcase 
+# 💼 Rivaldle – Project Showcase
 
-[![Language](https://img.shields.io/badge/Language-JavaScript-orange.svg)]() 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)]() 
+[![Language](https://img.shields.io/badge/Language-JavaScript-orange.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)]()
 [![Status](https://img.shields.io/badge/Status-Showcase-lightgrey.svg)]()
 
 **Rivaldle** is a portfolio project built to demonstrate **technical skills, modular design, and collaborative problem-solving**.  
-It functions as a web-based showcase of logic implementation, UI design, and structured project organization.  
+It functions as a web-based showcase of logic implementation, UI design, and structured project organization.
 
-This project is **not intended for reuse** but serves as a **public sample** for hiring managers, collaborators, and educators to evaluate.  
+This project is **not intended for reuse** but serves as a **public sample** for hiring managers, collaborators, and educators to evaluate.
 
 > **Authors:** Alanna Matundan & Luke Lyons  
-> **Purpose:** Portfolio · Educational Review · Demonstration Only  
+> **Purpose:** Portfolio · Educational Review · Demonstration Only
 
 ---
 
 ## ✨ Highlights
-- Organized **multi-folder architecture** for clarity and maintainability  
-- Backend system for **character data and information storage**  
-- Multiple JavaScript files under `pages/` for each game mode  
-- Public assets (`images`, `css`, `fonts`, `js`) for easy resource management  
+
+- Organized **multi-folder architecture** for clarity and maintainability
+- Backend system for **character data and information storage**
+- Multiple JavaScript files under `pages/` for each game mode
+- Public assets (`images`, `css`, `fonts`, `js`) for easy resource management
 - Complete UI/UX design by **Alanna Matundan**, including:
-  - Custom **borders**  
-  - Add-on styling for the **Rival logo and title**  
-- Demonstrates teamwork and code collaboration  
-- Deployed to the cloud using **AWS EC2** for hosting and demonstration  
+  - Custom **borders**
+  - Add-on styling for the **Rival logo and title**
+- Demonstrates teamwork and code collaboration
+- Deployed to the cloud using **AWS EC2** for hosting and demonstration
 
 ---
+
 ### 🎬 Showcase
 
 <p align="center">
@@ -44,24 +46,30 @@ This project is **not intended for reuse** but serves as a **public sample** for
 </p>
 
 ---
+
 ## 🧰 Tech Stack
-- **Languages:** JavaScript, HTML5, CSS3  
-- **Platform:** Web (browser-based)  
-- **Structure:** Modular with separate `backend`, `pages`, and `public` directories  
-- **Version Control:** Git + GitHub  
+
+- **Languages:** JavaScript, HTML5, CSS3
+- **Platform:** Web (browser-based)
+- **Structure:** Modular with separate `backend`, `pages`, and `public` directories
+- **Version Control:** Git + GitHub
 
 ---
 
 ## 🚀 Getting Started
+
 ### Prerequisites
-- Modern browser (Chrome, Firefox, Edge recommended)  
-- Node.js + npm (for dependency management)  
+
+- Modern browser (Chrome, Firefox, Edge recommended)
+- Node.js + npm (for dependency management)
 
 ### Run Locally
+
 ```bash
 # Clone the repository
 git clone https://github.com/LovelyShades/Rivaldle_Website.git
-cd Rivaldle
+
+cd project_root
 
 # Install dependencies
 npm install
@@ -127,3 +135,4 @@ Luke Lyons — backend logic, data management, collaborative development
 
 © 2025 Alanna Matundan & Luke Lyons. All rights reserved.
 
+```
